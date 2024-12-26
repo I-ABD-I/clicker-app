@@ -1,3 +1,3 @@
 # clicker-app
 
-An HTTPS app to test my proxy server
+An HTTP app to test my proxy server
